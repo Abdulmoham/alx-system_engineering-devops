@@ -1,2 +1,2 @@
 #!/bin/bash
- 'Ac'tr 'Ze'
+tr "A" "Z" | tr "c" "e"
